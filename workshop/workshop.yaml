@@ -3,15 +3,14 @@ name: Red Hat OpenShift Virtualization Roadshow - SCC WorkShop
 modules:
     activate:
     - 01_welcome
-    - 02_migrate_vms
+    - 02_bare_metal
     - 03_ocpv_basics
-    - 04_thanks
-    - 05_ocpv_customization
-    - 06_windows_vm
-    - 07_bare_metal
-    - 08_network_management
-    - 09_storage_management
-    - 10_backup_restore
-    - 11_metallb
-    - 12_service_route
+    - 04_ocpv_customization
+    - 05_windows_vm
+    - 06_migrate_vms
+    - 07_network_management
+    - 08_storage_management
+    - 09_backup_restore
+    - 10_metallb
+    - 11_service_route
     - 900_vm_management
