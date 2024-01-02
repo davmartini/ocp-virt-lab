@@ -3,6 +3,8 @@
 
 =  Migration Toolkit for Virtualization
 
+:numbered:
+
 == Introduction
 
 By default, virtual machines are connected to the SDN, which is a convenient and easy way to give them access to the rest of the network, but can be challenging for the virtual machines, and other Pods in the OpenShift cluster, to find and connect to the virtualized applications. To solve this, we will use a `Service` to balance connections across the two Windows-based web servers, and create a DNS entry for each service discovery, then create a `Route` to allow external clients to access the application hosted within the virtual machines.

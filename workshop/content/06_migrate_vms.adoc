@@ -3,6 +3,8 @@
 
 = Migration Toolkit for Virtualization
 
+:numbered:
+
 == Introduction
 
 This lab uses the https://access.redhat.com/documentation/en-us/migration_toolkit_for_virtualization/[Migration Toolkit for Virtualization] (MTV) to import a virtual machine from VMware vSphere to OpenShift. The migration toolkit supports two "modes" of import:

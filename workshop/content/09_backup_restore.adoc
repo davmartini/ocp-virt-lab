@@ -4,6 +4,8 @@
 
 =  Backup and Restore
 
+:numbered:
+
 == Introduction
 
 There are multiple options for backup and restore of virtual machines with OpenShift Virtualization.
