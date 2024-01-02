@@ -25,11 +25,13 @@ modules:
         name: 'Step 5 : Migrating Virtual Machines'
     07_network_management:
         name: 'Step 6 : Network Management'
-    09_storage_management:
+    08_storage_management:
         name: 'Step 7 : Storage Management'
-    10_backup_restore:
+    09_backup_restore:
         name: 'Step 8 : Backup and Restore'
-    11_metallb:
+    10_metallb:
         name: 'Step 9 : Exposing apps using MetalLB'
-    12_service_route:
+    11_service_route:
         name: 'Step 10 : Exposing apps using a Route'
+    900_vm_management:
+        name: 'test'

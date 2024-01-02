@@ -14,3 +14,4 @@ modules:
     - 10_backup_restore
     - 11_metallb
     - 12_service_route
+    - 900_vm_management
