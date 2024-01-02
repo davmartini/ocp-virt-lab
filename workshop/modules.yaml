@@ -33,5 +33,5 @@ modules:
         name: 'Step 9 : Exposing apps using MetalLB'
     11_service_route:
         name: 'Step 10 : Exposing apps using a Route'
-    900_vm_management:
-        name: 'test'
+    12_vm_management:
+        name: 'Step 11 : VM Management'
