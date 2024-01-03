@@ -1,0 +1,4 @@
+# Welcome to this fantastic OpenShift Virtualization workshop
+
+## Agenda
+

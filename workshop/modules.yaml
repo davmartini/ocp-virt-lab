@@ -11,9 +11,9 @@ config:
     - name: node-network-domain
       value: aio.example.com
 modules:
-    01_welcome:
+    00_welcome:
         name: Welcome
-    40_lab_informations:
+    01_lab_informations:
         name: Lab Informations
     02_bare_metal:
         name: 'Step 1 : Bare Metal OpenShift Overview'
@@ -37,7 +37,5 @@ modules:
         name: 'Step 10 : Exposing apps using a Route'
     12_vm_management:
         name: 'Step 11 : VM Management'
-    20_ressources:
-        name: "Ressources"
     30_notes:
         name: "Instructor notes"
