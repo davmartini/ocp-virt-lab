@@ -8,12 +8,12 @@ metadata:
     openshift.io/display-name: Bookbag Build
     tags: gpte
     template.openshift.io/bindable: "false"
-  name: bookbag-build
+  name: ocp-virt-build
 
 parameters:
   - name: NAME
     required: true
-    value: bookbag
+    value: ocp-virt
   - name: BUILDER_IMAGE
     required: true
     value: quay.io/openshifthomeroom/workshop-dashboard:5.0.1

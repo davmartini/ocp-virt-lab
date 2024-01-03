@@ -9,15 +9,15 @@ metadata:
     openshift.io/display-name: Bookbag
     tags: gpte
     template.openshift.io/bindable: "false"
-  name: bookbag
+  name: ocp-virt
 
 parameters:
   - name: NAME
     required: true
-    value: bookbag-demo
+    value: ocp-virt-demo
   - name: IMAGE_STREAM_NAME
     required: true
-    value: bookbag-demo
+    value: ocp-virt-demo
   - name: IMAGE_STREAM_NAMESPACE
   - name: IMAGE
     value: set-by-trigger
