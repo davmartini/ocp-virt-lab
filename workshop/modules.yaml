@@ -35,6 +35,5 @@ modules:
         name: 'Step 10 : Exposing apps using a Route'
     12_vm_management:
         name: 'Step 11 : VM Management'
-ressources:
-    20_test:
-        name: test        
+    20_ressources:
+        name: "Ressources"
