@@ -14,3 +14,4 @@ modules:
     - 10_metallb
     - 11_service_route
     - 12_vm_management
+    - 20_ressources
