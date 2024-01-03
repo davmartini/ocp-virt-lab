@@ -31,10 +31,10 @@ modules:
         name: 'Step 7 : Storage Management'
     09_backup_restore:
         name: 'Step 8 : Backup and Restore'
-    10_metallb:
-        name: 'Step 9 : Exposing apps using MetalLB'
-    11_service_route:
-        name: 'Step 10 : Exposing apps using a Route'
+    10_service_route:
+        name: 'Step 9 : Exposing apps using a Route'
+    11_metallb:
+        name: 'Step 10 : Exposing apps using MetalLB'
     12_vm_management:
         name: 'Step 11 : VM Management'
     30_notes:
