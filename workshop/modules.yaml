@@ -13,6 +13,8 @@ config:
 modules:
     01_welcome:
         name: Welcome
+    40_lab_informations:
+        name: Lab Informations
     02_bare_metal:
         name: 'Step 1 : Bare Metal OpenShift Overview'
     03_ocpv_basics:

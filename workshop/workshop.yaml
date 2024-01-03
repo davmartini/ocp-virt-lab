@@ -16,3 +16,4 @@ modules:
     - 12_vm_management
     - 20_ressources
     - 30_notes
+    - 40_lab_informations
