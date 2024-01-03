@@ -6,7 +6,7 @@ message: |
 
 metadata:
   annotations:
-    openshift.io/display-name: Bookbag
+    openshift.io/display-name: ocp-virt
     tags: gpte
     template.openshift.io/bindable: "false"
   name: ocp-virt
@@ -37,7 +37,7 @@ parameters:
     required: true
   - name: ROLE
     description: >-
-      Role to assign to bookbag service account. Default, 'basic-user'.
+      Role to assign to ocp-virt service account. Default, 'basic-user'.
       Ex: admin, edit, view
     required: true
     value: edit
