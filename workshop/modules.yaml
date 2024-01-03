@@ -37,3 +37,5 @@ modules:
         name: 'Step 11 : VM Management'
     20_ressources:
         name: "Ressources"
+    30_notes:
+        name: "Instructor notes"
