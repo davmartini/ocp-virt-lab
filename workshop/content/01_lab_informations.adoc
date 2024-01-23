@@ -13,7 +13,7 @@ On this page, you will find required information to follow this workshop properl
 
 ### OpenShift Console
 * Description : Console to access to your cluster
-* Url : https://console-openshift-console.apps.28qlw.dynamic.redhatworkshops.io/
+* Url : https://console-openshift-console.apps.b9d8j.dynamic.redhatworkshops.io/
 * Admin User : $(YOUR_ADMIN_USER)
 * Admin Password : $(YOUR_ADMIN_PASSWORD)
 * Role : cluster Admin
@@ -21,16 +21,20 @@ On this page, you will find required information to follow this workshop properl
 * Normal User Password : $(YOUR_NORMAL_PASSWORD)
 * Role : OpenShift user (developer, integrator, etc...)
 
+### vSphere Console
+* Url : https://portal.vc.opentlc.com
+* Admin User : roadshow-ocpvirt-b9d8j@vc.opentlc.com
+* Admin Password : tLFR-g5thK_7
 
 ### Entry point server
 * Description : Machine exposed on Internet to access to lab internal IPs
-* IP : 145.40.80.251
+* IP : 147.75.205.51
 * SSH user : lab-user
 * Password : Look on white board
 
 ### Basstion server
 * Description : Bastion host to execute needed commands
-* IP : 145.40.80.251
+* IP : 192.168.123.100
 * SSH user : lab-user
 * Password : Look on white board
 
