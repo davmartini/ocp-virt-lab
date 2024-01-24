@@ -13,7 +13,7 @@ On this page, you will find required information to follow this workshop properl
 
 ### OpenShift Console
 * Description : Console to access to your cluster
-* Url : https://bookbag-ksvfc-bookbag.apps.ksvfc.dynamic.redhatworkshops.io/
+* Url : https://console-openshift-console.apps.ksvfc.dynamic.redhatworkshops.io
 * Admin User : $(YOUR_ADMIN_USER)
 * Admin Password : $(YOUR_ADMIN_PASSWORD)
 * Role : cluster Admin
