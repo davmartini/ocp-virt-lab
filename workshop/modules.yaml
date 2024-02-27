@@ -23,18 +23,18 @@ modules:
         name: 'Step 3 : Customize Virtual Machines'
     05_windows_vm:
         name: 'Step 4 : Windows Virtual Machines'
-    06_migrate_vms:
-        name: 'Step 5 : Migrating Virtual Machines'
-    07_service_route:
-        name: 'Step 6 : Exposing apps using a Route'
-    08_metallb:
-        name: 'Step 7 : Exposing apps using MetalLB'
-    09_vm_management:
-        name: 'Step 8 : VM Management'
-    10_network_management:
-        name: '(optional) Step 9 : Network Management'
-    11_storage_management:
-        name: '(optional) Step 10 : Storage Management'
+    06_vm_management:
+        name: 'Step 5 : VM Management'
+    07_storage_management:
+        name: 'Step 6 : Storage Management'
+    08_migrate_vms:
+        name: 'Step 7 : Migrating Virtual Machines'
+    09_service_route:
+        name: '(optional) Step 8 : Exposing apps using a Route'
+    10_metallb:
+        name: '(optional) Step 9 : Exposing apps using MetalLB'
+    11_network_management:
+        name: '(optional) Step 10 : Network Management'
     12_backup_restore:
         name: '(optional) Step 11 : Backup and Restore'
     30_notes:
