@@ -1,42 +1,8 @@
-# Lab informations
-
-On this page, you will find required information to follow this workshop properly
+# Prérequis
 
 
-## General information
 
-* Admin users : admin{01-30}
-* Normal users : user{01-30}
-* Project name : virt-lab{01-30}
-
-## Technical information
-
-### OpenShift Console
-* Description : Console to access to your cluster
-* Url : https://console-openshift-console.apps.ksvfc.dynamic.redhatworkshops.io
-* Admin User : $(YOUR_ADMIN_USER)
-* Admin Password : $(YOUR_ADMIN_PASSWORD)
-* Role : cluster Admin
-* Normal User : $(YOUR_NORMAL_USER)
-* Normal User Password : $(YOUR_NORMAL_PASSWORD)
-* Role : OpenShift user (developer, integrator, etc...)
-
-### vSphere Console
-* Url : https://portal.vc.opentlc.com
-* Admin User : roadshow-ocpvirt-ksvfc@vc.opentlc.com
-* Admin Password : lkLX9L2.oRz3
-
-### Entry point server
-* Description : Machine exposed on Internet to access to lab internal IPs
-* IP : 145.40.94.165
-* SSH user : lab-user
-* Password : zCM9GHF1b68Z
-
-### Basstion server
-* Description : Bastion host to execute needed commands
-* IP : 192.168.123.100
-* SSH user : lab-user
-* Password : zCM9GHF1b68Z
+# Liens du Lab
 
 
 ## Documentations
