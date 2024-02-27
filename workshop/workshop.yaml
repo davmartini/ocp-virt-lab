@@ -8,12 +8,12 @@ modules:
     - 03_ocpv_basics
     - 04_ocpv_customization
     - 05_windows_vm
-    - 06_migrate_vms
-    - 07_service_route
-    - 08_metallb
-    - 09_vm_management
-    - 10_network_management
-    - 11_storage_management
+    - 06_vm_management
+    - 07_storage_management
+    - 08_migrate_vms
+    - 09_service_route
+    - 10_metallb
+    - 11_network_management
     - 12_backup_restore
     - 30_notes
 
