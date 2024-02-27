@@ -1,10 +1,18 @@
-# Prérequis
+== Prérequis
 
+* Un poste de travail
+* Un accès à Internet
+* Un navigateur web (Firefox / Chrome)
+* Un terminal avec ssh (optionel)
+* Une adresse mail
 
+== Liens du Lab
 
-# Liens du Lab
+* Url du lab : TBD
+* Lab password : TBD
 
+== Documentations
 
-## Documentations
-
-[Official OpenShift Documentation](https://docs.openshift.com/container-platform/)
+* [Presented slides](TBD)
+* [Official OpenShift Documentation](https://docs.openshift.com/container-platform/)
+* [Official OpenShift Virt Documentation](https://docs.openshift.com/container-platform/4.14/virt/about_virt/about-virt.html)
