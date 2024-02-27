@@ -3,7 +3,7 @@
 
 :numbered:
 
- Introduction
+== Introduction
 
 In this lab, you will review the environment used during this workshop, including an overview of OpenShift deployed to bare metal hosts.
 
