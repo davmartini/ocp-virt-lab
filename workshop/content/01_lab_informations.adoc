@@ -6,10 +6,12 @@
 * Un terminal avec ssh (optionel)
 * Une adresse mail
 
-== Liens du Lab
+== To do day one
 
 * Url du lab : TBD
 * Lab password : TBD
+* Add customer email
+* Affected mail to different labs
 
 == Documentations
 
