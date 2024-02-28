@@ -6,12 +6,11 @@
 * Un terminal avec ssh (optionel)
 * Une adresse mail
 
-== To do day one
+== Information sur lab
 
-* Url du lab : TBD
-* Lab password : TBD
-* Add customer email
-* Affected mail to different labs
+* Url du lab : https://demo.redhat.com/workshop/k34vyc
+* Lab password : redhatparis
+
 
 == Documentations
 

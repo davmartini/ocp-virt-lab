@@ -11,6 +11,8 @@ oc patch console.operator cluster -n openshift-storage --type json -p '[{"op": "
 
 * Add lab page and password to lab information page
 * Add deck link
+* Add customer email
+* Affected mail to different labs
 
 ### Operators upgrade
 
