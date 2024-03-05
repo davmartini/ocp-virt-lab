@@ -9,7 +9,7 @@
 == Information sur lab
 
 * Url du lab : https://demo.redhat.com/workshop/edb2ct
-* Lab password : redhatvirt
+* Lab password : redhatparis
 
 
 == Documentations
