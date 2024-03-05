@@ -14,6 +14,6 @@
 
 == Documentations
 
-* [Presented slides]()
+* [Presented slides](https://ocp-virt-labs.apps.ocp.drkspace.fr/workshop/docs/openshift_virtualization_roadshow_paris_05_03_2024.pdf)
 * [Official OpenShift Documentation](https://docs.openshift.com/container-platform/)
 * [Official OpenShift Virt Documentation](https://docs.openshift.com/container-platform/4.14/virt/about_virt/about-virt.html)
